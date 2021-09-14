@@ -1,4 +1,7 @@
 [submodule "beercon2-talk"]
   path = beercon2-talk
-  url = https://github.com/AtomicNicos/beercon2-resources-files
+  url = git@github.com:AtomicNicos/beercon2-resources-files
 
+[submodule "bonclesides-resources"]
+  path = bsides-ncl-workshop
+  url = git@github.com:AtomicNicos/bsides-ncl-workshop.git
